@@ -16,5 +16,3 @@
 *numpy*
 *seaborn*
 *sklearn*
-
-Рекомендация тарифов
