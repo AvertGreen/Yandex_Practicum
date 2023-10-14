@@ -16,3 +16,5 @@
 анализ важности ее признаков.
 
 Мастерская будет проходить в виде соревнования на платформе Kaggle. Длительность — 2 недели.
+
+https://www.kaggle.com/competitions/music-genre-prediction-m124ds/overview
